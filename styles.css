@@ -175,3 +175,71 @@ p {
     transform: rotate(0);
   }
 }
+
+@media (max-width: 450px) {
+    
+    .navbar-brand{
+        font-size: 1.4rem;
+    }
+    .navbar {
+    padding: 0 0 1.5rem;
+    }
+    
+    .big-heading{
+        font-size: 2rem;
+    }
+    
+    .sub-heading{
+        font-size: 1rem;
+    }
+    
+    .about p{
+        font-size: 0.9rem;
+    }
+    
+    .about h3{
+        font-size: 1.5rem;
+    }
+    
+    .services-text {
+        font-size: 1.5rem;
+        line-height: 1.5;
+        
+    }
+    
+    .services-image{
+        width: 30%;
+        display: block;
+        margin: auto;
+    }
+    
+    #process {
+        padding: 20px;
+    }
+    
+    .process-column {
+        padding: 2% 1%;
+    }
+    
+    .process-sec p{
+        font-size: 0.9rem;
+    }
+    
+    .process-sec h3{
+        font-size: 1.5rem;
+    }
+    
+    .process-sec h2{
+        font-size: 2rem;
+    }
+    
+    .big-heading1{
+        font-size: 2rem;
+    }
+    
+    .sub-heading1{
+        font-size: 1.2rem;
+    }
+    
+
+}
